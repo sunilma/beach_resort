@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+# View live demo of App:
+https://sunilma.github.io/beach_resort/
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
